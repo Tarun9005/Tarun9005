@@ -1,5 +1,5 @@
 Hi 👋🏻 , I am Tarun
-- I am Full Stack Web Developer
+- I am a Software Engineer.
 - I love working on Javascript projects!
 - Currently most of my work is involved in Front-End domain focused on React.js.
 - I have worked on SaaS projects involving Php , Laravel and MySql.
